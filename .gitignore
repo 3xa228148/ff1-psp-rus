@@ -1,13 +1,35 @@
-# образы игры не должны попасть в репозиторий
+# образы и файлы игры не должны попасть в репозиторий
 *.iso
 *.ISO
 *.cso
 *.CSO
+*.zso
+*.ZSO
 *.img
 *.bin
 *.BIN
 *.pbp
 *.PBP
+*.prx
+*.PRX
+*.SFO
+*.dpk
+*.DPK
+*.pck
+*.PCK
+*.msg
+*.MSG
+*.dat
+*.DAT
+*.at3
+*.AT3
+*.pmf
+*.PMF
 
+# эмулятор, временные файлы
+*.ppst
+*.log
 __pycache__/
 *.pyc
+.venv/
+venv/
