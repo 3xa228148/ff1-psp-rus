@@ -1,0 +1,59 @@
+name: Не работает / ошибка
+description: Русификатор выдал ошибку, игра не запускается, зависает или работает неправильно
+title: "[Ошибка] "
+labels: ["ошибка"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Спасибо, что сообщаете! Чем подробнее описание, тем быстрее получится разобраться.
+        Пожалуйста, **не прикладывайте образ игры и не давайте ссылок на него**.
+  - type: dropdown
+    id: where
+    attributes:
+      label: Где проблема
+      options:
+        - Русификатор (ff1_rus.py, rusify.bat, rusify.sh)
+        - Игра на PSP
+        - Игра на PS Vita (Adrenaline)
+        - Игра в эмуляторе PPSSPP
+        - Другое
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Что произошло
+      description: Что вы делали и что пошло не так. Если игра зависла — в каком месте (после заставки, в бою, при сохранении...).
+    validations:
+      required: true
+  - type: textarea
+    id: log
+    attributes:
+      label: Вывод русификатора
+      description: Скопируйте сюда весь текст из окна русификатора (особенно строки «ВНИМАНИЕ» и «ОШИБКА»).
+      render: text
+  - type: input
+    id: device
+    attributes:
+      label: Устройство и прошивка
+      description: "Например: PSP-3008, 6.61 PRO-C2 / PSP-1004, 6.61 ARK-4 / PPSSPP 1.19 на Windows"
+  - type: dropdown
+    id: format
+    attributes:
+      label: Формат образа
+      options:
+        - ISO
+        - CSO
+        - ZSO
+        - Не знаю
+  - type: input
+    id: version
+    attributes:
+      label: Версия русификатора
+      description: Дата скачивания или коммит, если знаете
+  - type: textarea
+    id: screens
+    attributes:
+      label: Скриншоты
+      description: Можно перетащить картинки прямо сюда.

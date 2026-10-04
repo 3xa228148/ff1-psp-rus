@@ -1,0 +1,154 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: меню и экраны.
+# Игровой файл: FM_LANG.PCK / SET_LANG.MSG
+# Шрифт: fonts/FM_LANG/FM_LANG.charmap.txt - писать можно только символами этого шрифта.
+# @mode 3: строки идут тройками на каждую фразу: японский 1, японский 2, английский.
+# В этом переводе 1-я и 2-я строки тройки - режим English, 3-я - русский.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 3
+=== 0 ===
+NOT USED
+=== 1 ===
+NOT USED
+=== 2 ===
+NOT USED
+=== 3 ===
+NOT USED
+=== 4 ===
+NOT USED
+=== 5 ===
+NOT USED
+=== 6 ===
+Play the game in
+Japanese.
+=== 7 ===
+Play the game in
+Japanese.
+=== 8 ===
+Play the game in
+Japanese.
+=== 9 ===
+Play the game in
+English.
+=== 10 ===
+Play the game in
+English.
+=== 11 ===
+Играть на английском
+языке.
+=== 12 ===
+Play the game in
+Russian.
+=== 13 ===
+Play the game in
+Russian.
+=== 14 ===
+Играть на русском
+языке.
+=== 15 ===
+NOT USED
+=== 16 ===
+NOT USED
+=== 17 ===
+NOT USED
+=== 18 ===
+Display messages in Japanese?
+=== 19 ===
+Display messages in Japanese?
+=== 20 ===
+Display messages in Japanese?
+=== 21 ===
+Display messages in English?
+=== 22 ===
+Display messages in English?
+=== 23 ===
+Выводить текст на английском?
+=== 24 ===
+Display messages in Russian?
+=== 25 ===
+Display messages in Russian?
+=== 26 ===
+Выводить текст на русском?
+=== 27 ===
+Set the language
+messages should 
+be displayed in.
+
+Language can be
+changed anytime
+from the menu in
+Configuration.
+=== 28 ===
+Set the language
+messages should 
+be displayed in.
+
+Language can be
+changed anytime
+from the menu in
+Configuration.
+=== 29 ===
+Выберите язык,
+на котором будут
+выводиться
+сообщения.
+
+Язык можно
+сменить в любой
+момент в
+настройках.
+=== 30 ===
+Set the language
+messages should 
+be displayed in.
+=== 31 ===
+Set the language
+messages should 
+be displayed in.
+=== 32 ===
+Выберите язык,
+на котором будут
+выводиться
+сообщения.
+=== 33 ===
+ : Confirm
+=== 34 ===
+ : Confirm
+=== 35 ===
+ : Подтвердить
+=== 36 ===
+ : Back
+=== 37 ===
+ : Back
+=== 38 ===
+ : Назад
+=== 39 ===
+English
+=== 40 ===
+English
+=== 41 ===
+English
+=== 42 ===
+English
+=== 43 ===
+English
+=== 44 ===
+English
+=== 45 ===
+Русский
+=== 46 ===
+Русский
+=== 47 ===
+Русский
+=== 48 ===
+Language
+=== 49 ===
+Language
+=== 50 ===
+Язык
+=== 51 ===
+Display messages in Russian?
+=== 52 ===
+Display messages in Russian?
+=== 53 ===
+Выводить текст на русском?

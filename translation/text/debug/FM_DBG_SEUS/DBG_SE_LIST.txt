@@ -1,0 +1,478 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_SEUS.PCK / DBG_SE_LIST.MSG
+# Шрифт: fonts/FM_DBG_SEUS/FM_DBG_SEUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+Курсор
+=== 1 ===
+Confirme
+=== 2 ===
+No select/Reject
+=== 3 ===
+Open/Close door
+=== 4 ===
+Get item
+=== 5 ===
+Encount
+=== 6 ===
+Ocean
+=== 7 ===
+Airship(flying)
+=== 8 ===
+Damage floor
+=== 9 ===
+Crystal white-out
+=== 10 ===
+Open window
+=== 11 ===
+Cancel
+=== 12 ===
+Airship(landing)
+=== 13 ===
+Close window
+=== 14 ===
+Снаряж.
+=== 15 ===
+Unequip
+=== 16 ===
+Cashier
+=== 17 ===
+Teleport
+=== 18 ===
+Выход
+=== 19 ===
+Canal explosion
+=== 20 ===
+Airship(takeoff)
+=== 21 ===
+Camp_Full-Life
+=== 22 ===
+Camp_Life
+=== 23 ===
+Camp_Stona
+=== 24 ===
+Camp_Poisona
+=== 25 ===
+Camp_Healaga
+=== 26 ===
+Camp_Healara
+=== 27 ===
+Camp_Heal
+=== 28 ===
+Camp_Curada
+=== 29 ===
+Camp_Curaga
+=== 30 ===
+Camp_Cura
+=== 31 ===
+Camp_Cure
+=== 32 ===
+Matoya_trip
+=== 33 ===
+Nerrick_work
+=== 34 ===
+Titan_footstep
+=== 35 ===
+Orb of Chaos Glows
+=== 36 ===
+Class change
+=== 37 ===
+Class change_light
+=== 38 ===
+Flying fairy 1
+=== 39 ===
+Sub Underwater
+=== 40 ===
+Item event occurs
+=== 41 ===
+Resurrect at church
+=== 42 ===
+!
+=== 43 ===
+Bridge-Hitting Rock
+=== 44 ===
+Bridge-Big Construction
+=== 45 ===
+Bridge-Fitting Rock
+=== 46 ===
+Giant's Cry
+=== 47 ===
+Giant Eats Ruby
+=== 48 ===
+Flying fairy 2
+=== 49 ===
+Flying fairy 3
+=== 50 ===
+Flying fairy 4
+=== 51 ===
+Trap Door
+=== 52 ===
+OP_Crystal's Unite
+=== 53 ===
+OP_Crystal's Revolve
+=== 54 ===
+OP_Violent Wave
+=== 55 ===
+OP_Wind
+=== 56 ===
+Making Excalibur
+=== 57 ===
+Crystal Revival Outpost
+=== 58 ===
+Crystal Flashing
+=== 59 ===
+Crystal Revival
+=== 60 ===
+Get Airship Demo
+=== 61 ===
+Levistone Flashing
+=== 62 ===
+Save Complete
+=== 63 ===
+Black Magic Chant
+=== 64 ===
+White Magic Chant
+=== 65 ===
+Hit (Shock)
+=== 66 ===
+Hit (Small)
+=== 67 ===
+Hit (Medium)
+=== 68 ===
+Hit (Large)
+=== 69 ===
+Hit (Large)+Lightning
+=== 70 ===
+Knife Slash
+=== 71 ===
+Small Slash
+=== 72 ===
+Big Slash
+=== 73 ===
+Cut Off
+=== 74 ===
+Side Slash
+=== 75 ===
+Big Slash + Ice
+=== 76 ===
+Big Slash + Fire
+=== 77 ===
+Super Big Slash
+=== 78 ===
+Wild Swing
+=== 79 ===
+Crescent Moon
+=== 80 ===
+Chain Hit
+=== 81 ===
+Chaos Death
+=== 82 ===
+Cure
+=== 83 ===
+Cura
+=== 84 ===
+Curada
+=== 85 ===
+Curaga
+=== 86 ===
+Heal
+=== 87 ===
+Healara
+=== 88 ===
+Healaga
+=== 89 ===
+Диа
+=== 90 ===
+Diara
+=== 91 ===
+Diada
+=== 92 ===
+Diaga
+=== 93 ===
+Life
+=== 94 ===
+Full-Life
+=== 95 ===
+Invis
+=== 96 ===
+Invisira(half)
+=== 97 ===
+Protect
+=== 98 ===
+Protectra(half)
+=== 99 ===
+NulBolt
+=== 100 ===
+NulFire
+=== 101 ===
+NulIce
+=== 102 ===
+NulDeath
+=== 103 ===
+NulAll
+=== 104 ===
+Blink
+=== 105 ===
+Blindna
+=== 106 ===
+Немота
+=== 107 ===
+Poisona
+=== 108 ===
+Fear
+=== 109 ===
+Vox
+=== 110 ===
+Stona
+=== 111 ===
+Protectra(last half)
+=== 112 ===
+Holy
+=== 113 ===
+Dispel
+=== 114 ===
+Огонь
+=== 115 ===
+Fira
+=== 116 ===
+Firaga
+=== 117 ===
+Гром
+=== 118 ===
+Thundara
+=== 119 ===
+Thundaga(ally)
+=== 120 ===
+Blizzard
+=== 121 ===
+Blizzara
+=== 122 ===
+Blizzaga
+=== 123 ===
+Сон
+=== 124 ===
+Sleepra
+=== 125 ===
+Focus
+=== 126 ===
+Focara
+=== 127 ===
+Медленно
+=== 128 ===
+Slowra
+=== 129 ===
+Смерть
+=== 130 ===
+Dark
+=== 131 ===
+Kill
+=== 132 ===
+Temper
+=== 133 ===
+Hold
+=== 134 ===
+Haste
+=== 135 ===
+Confuse
+=== 136 ===
+Scourge
+=== 137 ===
+Stun
+=== 138 ===
+Break
+=== 139 ===
+Saber
+=== 140 ===
+Blind
+=== 141 ===
+Flare
+=== 142 ===
+Stop
+=== 143 ===
+Warp
+=== 144 ===
+Ветрорез
+=== 145 ===
+Beam
+=== 146 ===
+Claw
+=== 147 ===
+Claw (Big)
+=== 148 ===
+Fang
+=== 149 ===
+Fang 2
+=== 150 ===
+Kick
+=== 151 ===
+Body Blow
+=== 152 ===
+Thorn
+=== 153 ===
+Thorn (strike)
+=== 154 ===
+Monster Death
+=== 155 ===
+Icestorm(small)
+=== 156 ===
+Blaze(small)
+=== 157 ===
+Gaze_stone
+=== 158 ===
+Gaze_
+=== 159 ===
+Flash(half)
+=== 160 ===
+Землетрясение
+=== 161 ===
+Gaze_spacetime
+=== 162 ===
+Gaze_damage
+=== 163 ===
+Gaze_death(half)
+=== 164 ===
+Icestorm(large)
+=== 165 ===
+Blaze(large)
+=== 166 ===
+Blaze(middle)
+=== 167 ===
+Каменный газ
+=== 168 ===
+Mind Blast(half)
+=== 169 ===
+Poison Gas(damage)
+=== 170 ===
+Молния
+=== 171 ===
+Poison Gas(death)
+=== 172 ===
+Snort(half)
+=== 173 ===
+Взрыв
+=== 174 ===
+Чернила
+=== 175 ===
+Poison Darts(half)
+=== 176 ===
+Mid Boss Death
+=== 177 ===
+Boss Death
+=== 178 ===
+Escape(ally)
+=== 179 ===
+Квейк
+=== 180 ===
+Escape(monster)
+=== 181 ===
+Flash(last half)
+=== 182 ===
+Church Revive Orb 1
+=== 183 ===
+Church Revive Orb 2
+=== 184 ===
+Church Revive Orb 3
+=== 185 ===
+Chaos Transform
+=== 186 ===
+15 Puzzle Fit
+=== 187 ===
+False King Transform
+=== 188 ===
+Bat Transform
+=== 189 ===
+Barrel Girl
+=== 190 ===
+Citadel of Trials Man Vanish
+=== 191 ===
+Light and Dark Merge
+=== 192 ===
+Church Light Orb Falling SE
+=== 193 ===
+Shield Defense
+=== 194 ===
+Mind Blast(last half)
+=== 195 ===
+Invisira(last half)
+=== 196 ===
+Poison Darts(last half)
+=== 197 ===
+Teleport (Part)
+=== 198 ===
+Teleport (Part)
+=== 199 ===
+Exit (Part)
+=== 200 ===
+Exit (Part)
+=== 201 ===
+Citadel of Trials Warp (Length)
+=== 202 ===
+Citadel of Trials Warp (Width)
+=== 203 ===
+Class Change Complete
+=== 204 ===
+Death Glare (last half)
+=== 205 ===
+Kill(last half)
+=== 206 ===
+Snort(last half)
+=== 207 ===
+Cape Defense
+=== 208 ===
+OP_crystal
+=== 209 ===
+Canal_demo
+=== 210 ===
+Canal_plume
+=== 211 ===
+Canal_quake
+=== 212 ===
+4 Fiend Reincarnate
+=== 213 ===
+Sangaa (Enemy)
+=== 214 ===
+Fire Fiend
+=== 215 ===
+Tsunami Fiend
+=== 216 ===
+Cyclone Fiend
+=== 217 ===
+Fire (Not Used)
+=== 218 ===
+OP_Sea (Wave)
+=== 219 ===
+OP_Lightning
+=== 220 ===
+Extra Dungeon
+=== 221 ===
+4 Fiend Death Flash
+=== 222 ===
+Chaos Death Flash
+=== 223 ===
+Опаление
+=== 224 ===
+Луч
+=== 225 ===
+Ветрорез
+=== 226 ===
+Волновая пушка
+=== 227 ===
+Прилив. волна
+=== 228 ===
+Червоточина
+=== 229 ===
+Комета
+=== 230 ===
+Death Snort
+=== 231 ===
+Кислот. дождь
+=== 232 ===
+Cyclone (No Eye Twinkle)
+=== 233 ===
+Use Item (Drink Type)
+=== 234 ===
+Falling Character SE
+=== 235 ===
+SE TEST

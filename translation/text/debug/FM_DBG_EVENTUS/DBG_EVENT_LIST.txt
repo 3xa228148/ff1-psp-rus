@@ -1,0 +1,98 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_EVENTUS.PCK / DBG_EVENT_LIST.MSG
+# Шрифт: fonts/FM_DBG_EVENTUS/FM_DBG_EVENTUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+Opening
+=== 1 ===
+King’s Audience
+=== 2 ===
+Battle vs Garland
+=== 3 ===
+Bridge to the North
+=== 4 ===
+Get Lute
+=== 5 ===
+Prologue
+=== 6 ===
+Blind Matoya
+=== 7 ===
+Get Ship
+=== 8 ===
+Get Crown
+=== 9 ===
+Battle vs Astos
+=== 10 ===
+Get Jolt Tonic
+=== 11 ===
+Elf Prince Awakes
+=== 12 ===
+Get Nitro Powder
+=== 13 ===
+Canal Open
+=== 14 ===
+Battle vs Vampire
+=== 15 ===
+Get Star Ruby
+=== 16 ===
+Giant Eats Ruby
+=== 17 ===
+Get Earth Rod
+=== 18 ===
+Open Slab with Rod
+=== 19 ===
+Battle vs Lich
+=== 20 ===
+Get Canoe
+=== 21 ===
+Battle vs Marilith
+=== 22 ===
+Get Levistone
+=== 23 ===
+Get Airship
+=== 24 ===
+Citadel of Trials Guy
+=== 25 ===
+Get Rat’s Tail
+=== 26 ===
+Class Change
+=== 27 ===
+Фея в бутылке
+=== 28 ===
+Free Fairie
+=== 29 ===
+Get Oxyale
+=== 30 ===
+Barrel Sub □girl made{g55}
+=== 31 ===
+Barrel Sub □to shrine{g55}
+=== 32 ===
+Barrel Sub □to Onrac{g55}
+=== 33 ===
+Get Rosetta Stone
+=== 34 ===
+Battle vs Kraken
+=== 35 ===
+Learn Lufenian
+=== 36 ===
+Get Chime
+=== 37 ===
+Get Warp Cube
+=== 38 ===
+Get Adamantite
+=== 39 ===
+View Observatory
+=== 40 ===
+Battle vs Tiamat
+=== 41 ===
+Get Excalibur
+=== 42 ===
+Light Dark Fusion
+=== 43 ===
+Remove Slab with Lute
+=== 44 ===
+Last Battle
+=== 45 ===
+Ending

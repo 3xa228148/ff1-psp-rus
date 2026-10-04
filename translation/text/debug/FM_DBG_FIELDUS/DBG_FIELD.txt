@@ -1,0 +1,62 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_FIELDUS.PCK / DBG_FIELD.MSG
+# Шрифт: fonts/FM_DBG_FIELDUS/FM_DBG_FIELDUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+Field Debug MENU
+=== 1 ===
+Vehicles
+=== 2 ===
+Force Battle
+=== 3 ===
+Flags
+=== 4 ===
+Map Jump
+=== 5 ===
+Event Check
+=== 6 ===
+Options
+=== 7 ===
+Exit Field
+=== 8 ===
+Select Vehicle
+=== 9 ===
+none
+=== 10 ===
+Каноэ
+=== 11 ===
+Корабль
+=== 12 ===
+AirShip
+=== 13 ===
+Field Option for Debug
+=== 14 ===
+Битва
+=== 15 ===
+ON
+=== 16 ===
+OFF
+=== 17 ===
+HIT
+=== 18 ===
+Point
+=== 19 ===
+Capture
+=== 20 ===
+AlphaLayer
+=== 21 ===
+Effect
+=== 22 ===
+MAX
+=== 23 ===
+Event
+=== 24 ===
+FloorTIME
+=== 25 ===
+Gimmik
+=== 26 ===
+MIN
+=== 27 ===
+SoC Setting

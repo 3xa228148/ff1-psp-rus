@@ -1,0 +1,608 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_MAPUS.PCK / DBG_MAP.MSG
+# Шрифт: fonts/FM_DBG_MAPUS/FM_DBG_MAPUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+Карта мира
+=== 1 ===
+Earth Cavern B1
+=== 2 ===
+Earth Cavern B2
+=== 3 ===
+Earth Cavern B3
+=== 4 ===
+Earth Cavern B4
+=== 5 ===
+Earth Cavern B5
+=== 6 ===
+Эльфийский замок
+=== 7 ===
+Эльфхейм
+=== 8 ===
+Elfheim Inn
+=== 9 ===
+Elfheim Weapon Shop
+=== 10 ===
+Elfheim Armor Shop
+=== 11 ===
+Elfheim Item Shop
+=== 12 ===
+Elfheim White Magic 1
+=== 13 ===
+Elfheim White Magic 2
+=== 14 ===
+Elfheim Black Magic 1
+=== 15 ===
+Elfheim Black Magic 2
+=== 16 ===
+Elfheim Church
+=== 17 ===
+Онрак
+=== 18 ===
+Onrac Inn
+=== 19 ===
+Onrac Item Shop
+=== 20 ===
+Onrac White Magic
+=== 21 ===
+Onrac Black Magic
+=== 22 ===
+Onrac Church
+=== 23 ===
+Затонувший храм 1F
+=== 24 ===
+Затонувший храм 2F
+=== 25 ===
+Sunken Shrine 3FA
+=== 26 ===
+Sunken Shrine 3FB
+=== 27 ===
+Sunken Shrine 3FC
+=== 28 ===
+Sunken Shrine 4FA
+=== 29 ===
+Sunken Shrine 4FB
+=== 30 ===
+Затонувший храм 5F
+=== 31 ===
+Chaos Shrine Ruins
+=== 32 ===
+Храм Хаоса 1F
+=== 33 ===
+Храм Хаоса 2F
+=== 34 ===
+Храм Хаоса 3F
+=== 35 ===
+Храм Хаоса B1
+=== 36 ===
+Храм Хаоса B2
+=== 37 ===
+Храм Хаоса B3
+=== 38 ===
+Храм Хаоса B4
+=== 39 ===
+Храм Хаоса B5
+=== 40 ===
+Giant’s Cave
+=== 41 ===
+Гора Гулг B1
+=== 42 ===
+Гора Гулг B2
+=== 43 ===
+Mount Gulg B3A
+=== 44 ===
+Mount Gulg B3B
+=== 45 ===
+Гора Гулг B4
+=== 46 ===
+Гора Гулг B5
+=== 47 ===
+Лунное озеро
+=== 48 ===
+Crescent Lake Inn
+=== 49 ===
+Crescent Lake Weapon Shop
+=== 50 ===
+Crescent Lake Armor Shop
+=== 51 ===
+Crescent Lake Item Shop
+=== 52 ===
+Crescent Lake White Magic Shop
+=== 53 ===
+Crescent Lake Black Magic Shop
+=== 54 ===
+Crescent Lake Church
+=== 55 ===
+Sage’s Cave
+=== 56 ===
+Замок Корнелия 1F
+=== 57 ===
+Замок Корнелия 2F
+=== 58 ===
+Корнелия
+=== 59 ===
+Cornelia Inn
+=== 60 ===
+Cornelia Weapon Shop
+=== 61 ===
+Cornelia Armor Shop
+=== 62 ===
+Cornelia Item Shop
+=== 63 ===
+Cornelia White Magic Shop
+=== 64 ===
+Cornelia Black Magic Shop
+=== 65 ===
+Cornelia Church
+=== 66 ===
+Ice Cavern B1
+=== 67 ===
+Ice Cavern B2A
+=== 68 ===
+Ice Cavern B2B
+=== 69 ===
+Ice Cavern B3A
+=== 70 ===
+Ice Cavern B3B
+=== 71 ===
+Гайя
+=== 72 ===
+Gaia Inn
+=== 73 ===
+Gaia Weapon□Armor Shop
+=== 74 ===
+Gaia Item Shop
+=== 75 ===
+Gaia White□Black Magic Shop
+=== 76 ===
+Gaia Church
+=== 77 ===
+Цитадель испытаний 1F
+=== 78 ===
+Цитадель испытаний 2F
+=== 79 ===
+Цитадель испытаний 3F
+=== 80 ===
+Башня миражей 1F
+=== 81 ===
+Башня миражей 2F
+=== 82 ===
+Башня миражей 3F
+=== 83 ===
+Пещера водопада
+=== 84 ===
+Пещеры драконов B2
+=== 85 ===
+Dragon Caves B1A
+=== 86 ===
+Dragon Caves B1B
+=== 87 ===
+Duergar
+=== 88 ===
+Западный форт
+=== 89 ===
+Болотная пещера B1
+=== 90 ===
+Болотная пещера B2
+=== 91 ===
+Болотная пещера B3
+=== 92 ===
+Летающая крепость 1F
+=== 93 ===
+Летающая крепость 2F
+=== 94 ===
+Летающая крепость 3F
+=== 95 ===
+Летающая крепость 4F
+=== 96 ===
+Летающая крепость 5F
+=== 97 ===
+Matoya’s Cave
+=== 98 ===
+Правока
+=== 99 ===
+Pravoka Inn
+=== 100 ===
+Pravoka Weapon Shop
+=== 101 ===
+Pravoka Armor Shop
+=== 102 ===
+Pravoka Item Shop
+=== 103 ===
+Pravoka White Magic Shop
+=== 104 ===
+Pravoka Black Magic Shop
+=== 105 ===
+Pravoka Church
+=== 106 ===
+Мелмонд
+=== 107 ===
+Melmond Inn
+=== 108 ===
+Melmond Weapon Shop
+=== 109 ===
+Melmond Armor Shop
+=== 110 ===
+Melmond White Magic Shop
+=== 111 ===
+Melmond Black Magic Shop
+=== 112 ===
+Луфения
+=== 113 ===
+Lufenia White□Black Magic Shop
+=== 114 ===
+Караван
+=== 115 ===
+Caravan Item Shop
+=== 116 ===
+Gaia White Magic Shop
+=== 117 ===
+Gaia Black Magic Shop
+=== 118 ===
+Подъёмный мост
+=== 119 ===
+Пустыня Рюкан
+=== 120 ===
+{g103} Entrance
+=== 121 ===
+{g102} Entrance
+=== 122 ===
+V Entrance
+=== 123 ===
+{g101} Entrance
+=== 124 ===
+Special 00 Town Floor Shop
+=== 125 ===
+Special 01 Town Floor Inn
+=== 126 ===
+Special 02 Town Floor Church
+=== 127 ===
+Special 03 Ghost Town Boss Room
+=== 128 ===
+Special 04 Ghost Town 2 {g107}Flowery{g108}
+=== 129 ===
+Special 05 Desert Town Room 1
+=== 130 ===
+Special 06 Desert Town Room 2
+=== 131 ===
+Special 07 Toytown
+=== 132 ===
+Special 08 Desert Town Room 3
+=== 133 ===
+Special 09 Desert Town Room 4
+=== 134 ===
+Special 10 Mysidia Inn
+=== 135 ===
+{g103} 00
+=== 136 ===
+{g103} 00 Cave 1
+=== 137 ===
+{g103} 01 Cave 2
+=== 138 ===
+{g103} 02 Forest
+=== 139 ===
+{g103} 03 Desert
+=== 140 ===
+{g102} 00
+=== 141 ===
+{g102} 01
+=== 142 ===
+{g102} 00 Cave 1 {g107}Encounter{g108}
+=== 143 ===
+{g102} 01 Cave 2
+=== 144 ===
+{g102} 02 Magma Shrine
+=== 145 ===
+{g101} 25 Fire 6
+=== 146 ===
+V 30 Fire
+=== 147 ===
+{g101} 22 Fire 3
+=== 148 ===
+{g101} 23 Fire 4
+=== 149 ===
+{g102} 13 Sea 1
+=== 150 ===
+V 00 Mermaid Village
+=== 151 ===
+V 01
+=== 152 ===
+V 02
+=== 153 ===
+V 00 Dancer Village
+=== 154 ===
+{g101} 50 Water 1
+=== 155 ===
+{g101} 51 Water 2
+=== 156 ===
+{g101} 52 Water 3
+=== 157 ===
+V 10 Library
+=== 158 ===
+V 11 Shrine 2
+=== 159 ===
+V 12 Shrine 3
+=== 160 ===
+V 13 Shrine 4
+=== 161 ===
+V 20 Flooded Village
+=== 162 ===
+V 21 The Dead 2
+=== 163 ===
+{g101} 53 Water 4
+=== 164 ===
+V 23 Dragon Trial
+=== 165 ===
+{g102} 10 Ice 1
+=== 166 ===
+{g101} 55 Water 6
+=== 167 ===
+V 32 Wind
+=== 168 ===
+V 33 Water
+=== 169 ===
+V 40 Sky Castle
+=== 170 ===
+{g101} 00
+=== 171 ===
+{g101} 01
+=== 172 ===
+{g101} 02 Ghost Town
+=== 173 ===
+{g101} 03
+=== 174 ===
+{g101} 00 Water Castle
+=== 175 ===
+{g101} 10 Town Floor
+=== 176 ===
+{g101} 20 Graveyard
+=== 177 ===
+{g101} 21 Fire 2
+=== 178 ===
+{g102} 11 Ice 2
+=== 179 ===
+{g102} 12 Ice 3
+=== 180 ===
+{g101} 24 Fire 5
+=== 181 ===
+{g102} 03 Cave 4
+=== 182 ===
+{g101} 30 Mysidia
+=== 183 ===
+{g101} 31 Earth 2
+=== 184 ===
+{g101} 32 Earth 3
+=== 185 ===
+{g101} 33 Earth 4
+=== 186 ===
+{g101} 34 Earth 5
+=== 187 ===
+{g101} 35 Earth 6
+=== 188 ===
+{g101} 40 Faerie Village
+=== 189 ===
+{g101} 41 Wind 2
+=== 190 ===
+{g101} 42 Wind 3
+=== 191 ===
+{g101} 43 Wind 4
+=== 192 ===
+{g101} 44 Wind 5
+=== 193 ===
+{g101} 45 Desert Town
+=== 194 ===
+V 01 Cave 2
+=== 195 ===
+V 02 Cave 3
+=== 196 ===
+V 03 Cave 4
+=== 197 ===
+V 22 The Dead 3
+=== 198 ===
+{g101} 54 Floating Continent
+=== 199 ===
+V 31 Earth
+=== 200 ===
+{g101} 60 Giant Beavers
+=== 201 ===
+{g101} 61 Ice 2
+=== 202 ===
+{g101} 62 Ice 3
+=== 203 ===
+{g101} 63 Ice 4
+=== 204 ===
+{g101} 64 Ice 5
+=== 205 ===
+{g101} 65 Ice 6
+=== 206 ===
+{g101} 70 The Dead 1
+=== 207 ===
+{g101} 71 The Dead 2
+=== 208 ===
+{g101} 72 The Dead 3
+=== 209 ===
+{g101} 73 Toytown Room
+=== 210 ===
+{g102} 13 Sea 2
+=== 211 ===
+{g102} 13 Sea 3
+=== 212 ===
+Info On□Off
+=== 213 ===
+Scroll
+=== 214 ===
+H.Scroll
+=== 215 ===
+and
+=== 216 ===
+:IN□OUT
+=== 217 ===
+MAP
+=== 218 ===
+WLD: Cornelia
+=== 219 ===
+WLD: Chaos Shrine
+=== 220 ===
+WLD: Matoya's Cave
+=== 221 ===
+WLD: Pravoka
+=== 222 ===
+WLD: Elfheim
+=== 223 ===
+WLD: Western Keep
+=== 224 ===
+WLD: Marsh Cave
+=== 225 ===
+WLD: Duergar
+=== 226 ===
+WLD: Melmond
+=== 227 ===
+WLD: Earth Cavern
+=== 228 ===
+WLD: Giant's Cave
+=== 229 ===
+WLD: Sage's Cave
+=== 230 ===
+WLD: Crescent Lake
+=== 231 ===
+WLD: Mount Gulg
+=== 232 ===
+WLD: Ice Cavern
+=== 233 ===
+WLD: Dragon Caves
+=== 234 ===
+WLD: Citadel of Trials
+=== 235 ===
+WLD: Caravan
+=== 236 ===
+WLD: Onrac
+=== 237 ===
+WLD: Gaia
+=== 238 ===
+WLD: Lufenia
+=== 239 ===
+WLD: Waterfall Cavern
+=== 240 ===
+WLD: Mirage Tower
+=== 241 ===
+EXT_D01:
+=== 242 ===
+EXT_D02{g109}
+=== 243 ===
+EXT_D03:
+=== 244 ===
+EXT_D04:
+=== 245 ===
+EXT_D05:
+=== 246 ===
+EXT_D06:
+=== 247 ===
+EXT_D07:
+=== 248 ===
+EXT_D08:
+=== 249 ===
+EXT_D09:
+=== 250 ===
+EXT_D10:
+=== 251 ===
+EXT_D11:
+=== 252 ===
+EXT_D12:
+=== 253 ===
+EXT_D13:
+=== 254 ===
+EXT_D14:
+=== 255 ===
+EXT_D15:
+=== 256 ===
+EXT_D16:
+=== 257 ===
+EXT_D17:
+=== 258 ===
+EXT_D18:
+=== 259 ===
+EXT_D19:
+=== 260 ===
+EXT_D20:
+=== 261 ===
+EXT_D21:
+=== 262 ===
+EXT_D22:
+=== 263 ===
+EXT_D23:
+=== 264 ===
+EXT_D24:
+=== 265 ===
+EXT_D25:
+=== 266 ===
+EXT_D26:
+=== 267 ===
+EXT_D27:
+=== 268 ===
+EXT_D28:
+=== 269 ===
+EXT_D29:
+=== 270 ===
+EXT_D30:
+=== 271 ===
+EXT_D31:
+=== 272 ===
+EXT_D32:
+=== 273 ===
+EXT_D33:
+=== 274 ===
+EXT_D34:
+=== 275 ===
+EXT_D35:
+=== 276 ===
+EXT_D36:
+=== 277 ===
+EXT_D37:
+=== 278 ===
+EXT_D38:
+=== 279 ===
+EXT_D39:
+=== 280 ===
+EXT_D40:
+=== 281 ===
+EXT_D41:
+=== 282 ===
+EXT_D42:
+=== 283 ===
+EXT_D43:
+=== 284 ===
+EXT_D44:
+=== 285 ===
+EXT_D45:
+=== 286 ===
+EXT_D46:
+=== 287 ===
+EXT_D47:
+=== 288 ===
+EXT_D48:
+=== 289 ===
+α
+=== 290 ===
+R
+=== 291 ===
+G
+=== 292 ===
+B
+=== 293 ===
+フレンド
+=== 294 ===
+加算
+=== 295 ===
+減算
+=== 296 ===
+乗算
+=== 297 ===
+環境エ{g121}ェクト
+=== 298 ===
+ON
+=== 299 ===
+OFF
+=== 300 ===
+なし

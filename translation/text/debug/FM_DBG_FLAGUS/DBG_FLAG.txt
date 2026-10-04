@@ -1,0 +1,254 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_FLAGUS.PCK / DBG_FLAG.MSG
+# Шрифт: fonts/FM_DBG_FLAGUS/FM_DBG_FLAGUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+○
+=== 1 ===
+✕
+=== 2 ===
+□□□
+=== 3 ===
+Rescue Sarah
+=== 4 ===
+Aiding King of Cornelia
+=== 5 ===
+Bridge Spanning Continents
+=== 6 ===
+Get Lute
+=== 7 ===
+Get Ship
+=== 8 ===
+Get Crown
+=== 9 ===
+Battle vs Astos
+=== 10 ===
+Get Jolt Tonic
+=== 11 ===
+Elf Prince Awakens
+=== 12 ===
+Get Nitro Powder
+=== 13 ===
+Canal Opens
+=== 14 ===
+Battle vs Vampire
+=== 15 ===
+Get Star Ruby
+=== 16 ===
+Giant Eats Star Ruby
+=== 17 ===
+Get Earth Rod
+=== 18 ===
+Remove Slab with Earth Rod
+=== 19 ===
+Battle vs Lich
+=== 20 ===
+Get Canoe
+=== 21 ===
+Battle vs Marilith
+=== 22 ===
+Get Levistone
+=== 23 ===
+Get Airship
+=== 24 ===
+Old Man at Citadel of Trials
+=== 25 ===
+Get Rat's Tail
+=== 26 ===
+Class Change
+=== 27 ===
+Faerie Released
+=== 28 ===
+Get Oxyale
+=== 29 ===
+Girl Who Made Barrel Sub
+=== 30 ===
+Get Rosetta Stone
+=== 31 ===
+Battle vs Kraken
+=== 32 ===
+Learn Lufenian
+=== 33 ===
+Get Chime
+=== 34 ===
+Get Warp Cube
+=== 35 ===
+Get Adamantite
+=== 36 ===
+Battle vs Tiamat
+=== 37 ===
+Get Excalibur
+=== 38 ===
+Light and Dark Merge
+=== 39 ===
+Move Slab with Lute
+=== 40 ===
+Last Battle
+=== 41 ===
+Blind Matoya
+=== 42 ===
+Audience with King
+=== 43 ===
+Вступительный ролик
+=== 44 ===
+Get Faerie Bottle
+=== 45 ===
+Loc: Elven Castle
+=== 46 ===
+Loc: Elfheim
+=== 47 ===
+Loc: Onrac
+=== 48 ===
+Loc: Gaia
+=== 49 ===
+Loc: Caravan
+=== 50 ===
+Loc: Crescent Lake
+=== 51 ===
+Loc: Castle Cornelia
+=== 52 ===
+Loc: Cornelia
+=== 53 ===
+Loc: Western Keep
+=== 54 ===
+Loc: Pravoka
+=== 55 ===
+Loc: Melmond
+=== 56 ===
+Loc: Lufenia
+=== 57 ===
+Loc: Earth Cavern
+=== 58 ===
+Loc: Chaos Shrine
+=== 59 ===
+Loc: Giant's Cave
+=== 60 ===
+Loc: Mount Gulg
+=== 61 ===
+Loc: Sage's Cave
+=== 62 ===
+Loc: Ice Cavern
+=== 63 ===
+Loc: Citadel of Trials
+=== 64 ===
+Loc: Waterfall Cavern
+=== 65 ===
+Loc: Dragon Caves
+=== 66 ===
+Loc: Duergar
+=== 67 ===
+Loc: Marsh Cave
+=== 68 ===
+Loc: Matoya's Cave
+=== 69 ===
+Loc: Mirage Tower
+=== 70 ===
+Loc: III
+=== 71 ===
+Loc: IV
+=== 72 ===
+Loc: V
+=== 73 ===
+Loc: VI
+=== 74 ===
+Item: Energy Chip
+=== 75 ===
+Item: Battery Circuit
+=== 76 ===
+Item: Head Parts
+=== 77 ===
+Item: A.I. Chip
+=== 78 ===
+Item: Exoskeleton
+=== 79 ===
+Item: Leg Parts
+=== 80 ===
+Item: Audio Circuit
+=== 81 ===
+Item: Torso Parts
+=== 82 ===
+Item: Shoulder Parts
+=== 83 ===
+Item: Arm Parts
+=== 84 ===
+Item: Cat's Whisker
+=== 85 ===
+Item: House Key
+=== 86 ===
+Item: Smyth's Tools
+=== 87 ===
+Item: Witch's Brew
+=== 88 ===
+Item: Autograph
+=== 89 ===
+Item: Pickaxe
+=== 90 ===
+Item: Cogwheel
+=== 91 ===
+Item: Ocarina
+=== 92 ===
+Item: Carobo
+=== 93 ===
+Item: Canoe
+=== 94 ===
+Item: Oxyale
+=== 95 ===
+Item: Bottled Faerie
+=== 96 ===
+Item: Warp Cube
+=== 97 ===
+Item: Rat's Tail
+=== 98 ===
+Item: Chime
+=== 99 ===
+Item: Levistone
+=== 100 ===
+Item: Earth Rod
+=== 101 ===
+Item: Star Ruby
+=== 102 ===
+Item: Rosetta Stone
+=== 103 ===
+Item: Adamantite
+=== 104 ===
+Item: Nitro Powder
+=== 105 ===
+Item: Mystic Key
+=== 106 ===
+Item: Jolt Tonic
+=== 107 ===
+Item: Crystal Eye
+=== 108 ===
+Item: Crown
+=== 109 ===
+Item: Lute
+=== 110 ===
+Category
+=== 111 ===
+{g67}
+=== 112 ===
+{g68}
+=== 113 ===
+NONE
+=== 114 ===
+Event Flags
+=== 115 ===
+LocName Memory
+=== 116 ===
+Item
+=== 117 ===
+Dummy
+=== 118 ===
+Dummy
+=== 119 ===
+Dummy
+=== 120 ===
+Dummy
+=== 121 ===
+Dummy
+=== 122 ===
+Dummy
+=== 123 ===
+Dummy

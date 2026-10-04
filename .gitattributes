@@ -1,0 +1,11 @@
+# тексты перевода и код - UTF-8 с LF
+*.txt     text eol=lf
+*.md      text eol=lf
+*.py      text eol=lf
+*.json    text eol=lf
+*.sh      text eol=lf
+# bat-файлы Windows - CRLF
+*.bat     text eol=crlf
+# шрифты игры - двоичные
+*.FIF     binary
+*.GIM     binary

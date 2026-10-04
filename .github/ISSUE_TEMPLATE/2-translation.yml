@@ -1,0 +1,45 @@
+name: Ошибка в переводе
+description: Опечатка, неточный перевод, текст не помещается в окно, непереведённая строка
+title: "[Перевод] "
+labels: ["перевод"]
+body:
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Что не так
+      options:
+        - Опечатка или ошибка
+        - Неточный или неудачный перевод
+        - Текст не помещается / вылезает за окно
+        - Строка не переведена
+        - Другое
+    validations:
+      required: true
+  - type: input
+    id: place
+    attributes:
+      label: Где в игре
+      description: "Например: Корнелия, разговор с королём / меню «Магия» / бой с Гарландом"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: Как сейчас
+      description: Текст как он есть в игре
+    validations:
+      required: true
+  - type: textarea
+    id: proposed
+    attributes:
+      label: Как правильно (по вашему мнению)
+  - type: input
+    id: file
+    attributes:
+      label: Файл перевода (если нашли)
+      description: "Например: translation/text/dialogs/USEVM0A00/MAP0A00.txt, запись === 4 ==="
+  - type: textarea
+    id: screens
+    attributes:
+      label: Скриншот
+      description: Можно перетащить картинку прямо сюда.

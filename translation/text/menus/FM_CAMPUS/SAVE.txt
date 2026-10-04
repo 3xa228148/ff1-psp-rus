@@ -1,0 +1,20 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: меню и экраны.
+# Игровой файл: FM_CAMPUS.PCK / SAVE.MSG
+# Шрифт: fonts/FM_CAMPUS/FM_CAMPUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+y h cseoegih .t{noend}
+=== 1 ===
+Ea bi{t}uremoC edosoeMihhek ●{t}b aMaiss n.●yob edosoes{t}esliregih 4t{noend}
+=== 2 ===
+Fosoerob d.t{noend}
+=== 3 ===
+yob egoih d.t{noend}
+=== 4 ===
+t{noend}
+=== 5 ===
+t{noend}
+=== 6 ===
+t{noend}

@@ -1,0 +1,402 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: меню и экраны.
+# Игровой файл: FM_NAME_SEL.PCK / NAME_SELECT.MSG
+# Этот же текст используется в: FM_NAME_LARGE.PCK / NAME_SELECT.MSG
+# Шрифт: fonts/FM_NAME_SEL/FM_NAME_SEL.charmap.txt - писать можно только символами этого шрифта.
+# @mode 3: строки идут тройками на каждую фразу: японский 1, японский 2, английский.
+# В этом переводе 1-я и 2-я строки тройки - режим English, 3-я - русский.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 3
+=== 0 ===
+Leo
+=== 1 ===
+Leo
+=== 2 ===
+Leo
+=== 3 ===
+Banon
+=== 4 ===
+Banon
+=== 5 ===
+Banon
+=== 6 ===
+Doma
+=== 7 ===
+Doma
+=== 8 ===
+Doma
+=== 9 ===
+Zeza
+=== 10 ===
+Zeza
+=== 11 ===
+Zeza
+=== 12 ===
+Baron
+=== 13 ===
+Baron
+=== 14 ===
+Baron
+=== 15 ===
+Giott
+=== 16 ===
+Giott
+=== 17 ===
+Giott
+=== 18 ===
+Desh
+=== 19 ===
+Desh
+=== 20 ===
+Desh
+=== 21 ===
+Arus
+=== 22 ===
+Arus
+=== 23 ===
+Arus
+=== 24 ===
+Argus
+=== 25 ===
+Argus
+=== 26 ===
+Argus
+=== 27 ===
+Sasuun
+=== 28 ===
+Sasuun
+=== 29 ===
+Sasuun
+=== 30 ===
+Baku
+=== 31 ===
+Baku
+=== 32 ===
+Baku
+=== 33 ===
+Blank
+=== 34 ===
+Blank
+=== 35 ===
+Blank
+=== 36 ===
+Puck
+=== 37 ===
+Puck
+=== 38 ===
+Puck
+=== 39 ===
+Biggs
+=== 40 ===
+Biggs
+=== 41 ===
+Biggs
+=== 42 ===
+Wedge
+=== 43 ===
+Wedge
+=== 44 ===
+Wedge
+=== 45 ===
+Gerad
+=== 46 ===
+Gerad
+=== 47 ===
+Gerad
+=== 48 ===
+Daryl
+=== 49 ===
+Daryl
+=== 50 ===
+Daryl
+=== 51 ===
+Kelga
+=== 52 ===
+Kelga
+=== 53 ===
+Kelga
+=== 54 ===
+Sarisa
+=== 55 ===
+Sarisa
+=== 56 ===
+Sarisa
+=== 57 ===
+Tuss
+=== 58 ===
+Tuss
+=== 59 ===
+Tuss
+=== 60 ===
+Cinna
+=== 61 ===
+Cinna
+=== 62 ===
+Cinna
+=== 63 ===
+Marcus
+=== 64 ===
+Marcus
+=== 65 ===
+Marcus
+=== 66 ===
+Duncan
+=== 67 ===
+Duncan
+=== 68 ===
+Duncan
+=== 69 ===
+Maduin
+=== 70 ===
+Maduin
+=== 71 ===
+Maduin
+=== 72 ===
+Owain
+=== 73 ===
+Owain
+=== 74 ===
+Owain
+=== 75 ===
+Owzer
+=== 76 ===
+Owzer
+=== 77 ===
+Owzer
+=== 78 ===
+Arvis
+=== 79 ===
+Arvis
+=== 80 ===
+Arvis
+=== 81 ===
+Walz
+=== 82 ===
+Walz
+=== 83 ===
+Walz
+=== 84 ===
+Drogan
+=== 85 ===
+Drogan
+=== 86 ===
+Drogan
+=== 87 ===
+Gorn
+=== 88 ===
+Gorn
+=== 89 ===
+Gorn
+=== 90 ===
+Tot
+=== 91 ===
+Tot
+=== 92 ===
+Tot
+=== 93 ===
+Lola
+=== 94 ===
+Lola
+=== 95 ===
+Lola
+=== 96 ===
+Yura
+=== 97 ===
+Yura
+=== 98 ===
+Yura
+=== 99 ===
+Elayne
+=== 100 ===
+Elayne
+=== 101 ===
+Elayne
+=== 102 ===
+Duane
+=== 103 ===
+Duane
+=== 104 ===
+Duane
+=== 105 ===
+Mid
+=== 106 ===
+Mid
+=== 107 ===
+Mid
+=== 108 ===
+Gill
+=== 109 ===
+Gill
+=== 110 ===
+Gill
+=== 111 ===
+Tomok
+=== 112 ===
+Tomok
+=== 113 ===
+Tomok
+=== 114 ===
+KluYa
+=== 115 ===
+KluYa
+=== 116 ===
+KluYa
+=== 117 ===
+Kory
+=== 118 ===
+Kory
+=== 119 ===
+Kory
+=== 120 ===
+Mikoto
+=== 121 ===
+Mikoto
+=== 122 ===
+Mikoto
+=== 123 ===
+Ruby
+=== 124 ===
+Ruby
+=== 125 ===
+Ruby
+=== 126 ===
+Kuku
+=== 127 ===
+Kuku
+=== 128 ===
+Kuku
+=== 129 ===
+Jenica
+=== 130 ===
+Jenica
+=== 131 ===
+Jenica
+=== 132 ===
+Luca
+=== 133 ===
+Luca
+=== 134 ===
+Luca
+=== 135 ===
+Sara
+=== 136 ===
+Sara
+=== 137 ===
+Sara
+=== 138 ===
+Sarina
+=== 139 ===
+Sarina
+=== 140 ===
+Sarina
+=== 141 ===
+Sherko
+=== 142 ===
+Sherko
+=== 143 ===
+Sherko
+=== 144 ===
+Elia
+=== 145 ===
+Elia
+=== 146 ===
+Elia
+=== 147 ===
+Noah
+=== 148 ===
+Noah
+=== 149 ===
+Noah
+=== 150 ===
+Gungho
+=== 151 ===
+Gungho
+=== 152 ===
+Gungho
+=== 153 ===
+Zok
+=== 154 ===
+Zok
+=== 155 ===
+Zok
+=== 156 ===
+Koko
+=== 157 ===
+Koko
+=== 158 ===
+Koko
+=== 159 ===
+Stella
+=== 160 ===
+Stella
+=== 161 ===
+Stella
+=== 162 ===
+Kokkol
+=== 163 ===
+Kokkol
+=== 164 ===
+Kokkol
+=== 165 ===
+Gilles
+=== 166 ===
+Gilles
+=== 167 ===
+Gilles
+=== 168 ===
+Topapa
+=== 169 ===
+Topapa
+=== 170 ===
+Topapa
+=== 171 ===
+Homac
+=== 172 ===
+Homac
+=== 173 ===
+Homac
+=== 174 ===
+Nina
+=== 175 ===
+Nina
+=== 176 ===
+Nina
+=== 177 ===
+Delila
+=== 178 ===
+Delila
+=== 179 ===
+Delila
+=== 180 ===
+ABCDE□FGHIJ
+KLMNO□PQRST
+UVWXY□Z□□□□
+abcde□fghij
+klmno□pqrst
+uvwxy□z□□□□
+01234□56789
+?!,.:□_/~';
+(){{}[□]<>+-
+=%#&*□□□□□□
+=== 181 ===
+ABCDE□FGHIJ
+KLMNO□PQRST
+UVWXY□Z□□□□
+abcde□fghij
+klmno□pqrst
+uvwxy□z□□□□
+01234□56789
+?!,.:□_/~';
+(){{}[□]<>+-
+=%#&*□□□□□□
+=== 182 ===
+ABCDE□FGHIJ
+KLMNO□PQRST
+UVWXY□Z□□□□
+abcde□fghij
+klmno□pqrst
+uvwxy□z□□□□
+01234□56789
+?!,.:□_/~';
+(){{}[□]<>+-
+=%#&*□□□□□□

@@ -1,0 +1,18 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_CAMPUS.PCK / DBG_CAMP.MSG
+# Шрифт: fonts/FM_DBG_CAMPUS/FM_DBG_CAMPUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+L:ITEM Category EDIT
+=== 1 ===
+R:ITEM No. EDIT
+=== 2 ===
+L+DOWN : Category -
+=== 3 ===
+L+UP : Category +
+=== 4 ===
+L+LEFT : Type -
+=== 5 ===
+L+RIGHT : Type +

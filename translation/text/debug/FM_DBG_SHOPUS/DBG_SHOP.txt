@@ -1,0 +1,116 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_SHOPUS.PCK / DBG_SHOP.MSG
+# Шрифт: fonts/FM_DBG_SHOPUS/FM_DBG_SHOPUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+FF1 Shop Menu
+=== 1 ===
+ConeriaWeapon
+=== 2 ===
+ConeriaProtect
+=== 3 ===
+ConeriaItem
+=== 4 ===
+ConeriaWhiteMagic
+=== 5 ===
+ConeriaBlackMagic
+=== 6 ===
+PurabokaWeapon
+=== 7 ===
+PurabokaProtect
+=== 8 ===
+PurabokaItem
+=== 9 ===
+PurabokaWhiteMagic
+=== 10 ===
+PurabokaBlackMagic
+=== 11 ===
+ElfWeapon
+=== 12 ===
+ElfProtect
+=== 13 ===
+ElfItem
+=== 14 ===
+ElfWhiteMagic0
+=== 15 ===
+ElfWhiteMagic1
+=== 16 ===
+ElfBlackMagic0
+=== 17 ===
+ElfBlackMagic1
+=== 18 ===
+MelmondWeapon
+=== 19 ===
+MelmondProtect
+=== 20 ===
+MelmondWhiteMagic
+=== 21 ===
+MelmondBlackMagic
+=== 22 ===
+CrescentWeapon
+=== 23 ===
+CrescentProtect
+=== 24 ===
+CrescentItem
+=== 25 ===
+CrescentWhiteMagic
+=== 26 ===
+CrescentBlackMagic
+=== 27 ===
+OnrakuItem
+=== 28 ===
+OnrakuWhiteMagic
+=== 29 ===
+OnrakuBlackMagic
+=== 30 ===
+GaiaWeapon
+=== 31 ===
+GaiaProtect
+=== 32 ===
+GaiaItem
+=== 33 ===
+GaiaWhiteMagic0
+=== 34 ===
+GaiaWhiteMagic1
+=== 35 ===
+GaiaBlackMagic0
+=== 36 ===
+GaiaBlackMagic1
+=== 37 ===
+RufeinWhiteMagic
+=== 38 ===
+RufeinBlackMagic
+=== 39 ===
+Farst_Caravan
+=== 40 ===
+Second_Caravan
+=== 41 ===
+Extra_Shop01_09
+=== 42 ===
+Extra_Shop11_19
+=== 43 ===
+Extra_Shop21_29
+=== 44 ===
+Extra_Shop31_39
+=== 45 ===
+Extra_ShopWhiteLv7
+=== 46 ===
+Extra_ShopWhiteLv8
+=== 47 ===
+Extra_ShopBlackLv7
+=== 48 ===
+Extra_ShopBlackLv8
+=== 49 ===
+MisideiaWeapon
+=== 50 ===
+MisideiaProtect
+=== 51 ===
+MisideiaItem
+=== 52 ===
+Test_Item15
+=== 53 ===
+Test_Item10
+=== 54 ===
+Test_Item06

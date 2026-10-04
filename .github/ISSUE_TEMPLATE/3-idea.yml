@@ -1,0 +1,15 @@
+name: Предложение
+description: Идея по переводу или русификатору
+title: "[Идея] "
+labels: ["предложение"]
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Что предлагаете
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Зачем это нужно

@@ -1,0 +1,546 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: титры.
+# Игровой файл: FM_STAFF_ROLL.PCK / STAFF_ROLL.MSG
+# Шрифт: fonts/FM_STAFF_ROLL/FM_STAFF_ROLL.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+ИСПОЛНИТЕЛЬНЫЙ ПРОДЮСЕР
+=== 1 ===
+SHINJI HASHIMOTO
+=== 2 ===
+ХУДОЖЕСТВЕННЫЙ ОБРАЗ
+=== 3 ===
+YOSHITAKA AMANO
+=== 4 ===
+МУЗЫКАЛЬНЫЙ РУКОВОДИТЕЛЬ
+=== 5 ===
+NOBUO UEMATSU
+=== 6 ===
+РУКОВОДИТЕЛЬ ПО ГРАФИКЕ
+=== 7 ===
+KOUICHI ISHII
+=== 8 ===
+ПРОДЮСЕР
+=== 9 ===
+HIROYUKI MIURA
+=== 10 ===
+ЗАМЕСТИТЕЛЬ ПРОДЮСЕРА
+=== 11 ===
+MASASHI TANIGUCHI
+=== 12 ===
+КООРДИНАТОР
+=== 13 ===
+SATOKO OONISHI
+=== 14 ===
+АРТ-ДИРЕКТОР
+=== 15 ===
+MIEKO HOSHINO
+=== 16 ===
+ГРАФИЧЕСКИЙ ДИЗАЙН
+=== 17 ===
+TSUTOMU MOURI
+=== 18 ===
+TORU HONDA
+=== 19 ===
+ДИЗАЙН ЭФФЕКТОВ
+=== 20 ===
+SENTARO HOTTA
+=== 21 ===
+РУКОВОДИТЕЛИ ДИЗАЙНА ФОНОВ
+=== 22 ===
+MASAHITO WAKIMURA
+=== 23 ===
+TAKASHI ITAI
+=== 24 ===
+ДИЗАЙН МОНСТРОВ
+=== 25 ===
+YOSHISUKE NAKAHARA
+=== 26 ===
+ОТДЕЛ РЕКЛАМЫ
+=== 27 ===
+СТАРШИЙ ВИЦЕ-ПРЕЗИДЕНТ
+=== 28 ===
+KOJI TAGUCHI
+=== 29 ===
+ПРОДЮСЕР ПО РЕКЛАМЕ
+=== 30 ===
+KIYOTAKA SOUSUI
+=== 31 ===
+СОТРУДНИКИ ПО РЕКЛАМЕ
+=== 32 ===
+GYOTARO SATO
+=== 33 ===
+КООРДИНАТОРЫ ПО СМИ
+=== 34 ===
+HIDEKI YAMAMOTO
+=== 35 ===
+YUKIKO HANDA
+=== 36 ===
+КООРДИНАТОРЫ ПО ИЛЛЮСТРАЦИЯМ
+=== 37 ===
+NAOKI OHISHI
+=== 38 ===
+TAKASHI KAMIMURA
+=== 39 ===
+ВЕБ-КООРДИНАТОР
+=== 40 ===
+CHIAKI YAMAUCHI
+=== 41 ===
+КООРДИНАТОРЫ ПО ЗАРУБЕЖЬЮ
+=== 42 ===
+AYAKO KAWAMOTO
+=== 43 ===
+EMIKO SATO
+=== 44 ===
+КОНТРОЛЬ КАЧЕСТВА
+=== 45 ===
+КООРДИНАТОР
+=== 46 ===
+TETSUYA HORIGUCHI
+=== 47 ===
+КООРДИНАТОРЫ-АССИСТЕНТЫ
+=== 48 ===
+NAOKI MUTO
+=== 49 ===
+MITSUNORI ANDO
+=== 50 ===
+ТЕХНИЧЕСКИЙ ИНЖЕНЕР
+=== 51 ===
+KAZUYA OKAMOTO
+=== 52 ===
+ТЕХНИЧЕСКИЕ АССИСТЕНТЫ
+=== 53 ===
+TOMOHITO KOHNO
+=== 54 ===
+YUSUKE SADAMASA
+=== 55 ===
+СТАРШИЙ ТЕСТИРОВЩИК
+=== 56 ===
+SHUNSUKE TAKAMARU
+=== 57 ===
+ТЕСТИРОВЩИКИ
+=== 58 ===
+AKIRA HOKIYAMA
+=== 59 ===
+MIKI YAMAGUCHI
+=== 60 ===
+TOSHIYUKI TOBITA
+=== 61 ===
+AKINARI FUKUDA
+=== 62 ===
+NOBUYUKI NISHIMURA
+=== 63 ===
+MAMIKO SAITO
+=== 64 ===
+YUTAKA OGIHARA
+=== 65 ===
+SATOSHI AIDA
+=== 66 ===
+HIROAKI FUKUMOTO
+=== 67 ===
+…И ВЕСЬ ОТДЕЛ КАЧЕСТВА
+=== 68 ===
+ТЕХНИЧЕСКИЙ ДИРЕКТОР
+=== 69 ===
+HIDEYUKI KATO
+=== 70 ===
+МЕНЕДЖЕР
+=== 71 ===
+YUKIHIRO SHIBUYA
+=== 72 ===
+ГЕНЕРАЛЬНЫЙ МЕНЕДЖЕР
+=== 73 ===
+KOJI YAMASHITA
+=== 74 ===
+ОТДЕЛ СООБЩЕСТВА И СЕРВИСА
+=== 75 ===
+МЕНЕДЖЕР ОПЕРАЦИОННОГО ОТДЕЛА
+=== 76 ===
+SHOSAKU TAKABAYASHI
+=== 77 ===
+ИНФОРМАЦИОННЫЙ ЦЕНТР
+=== 78 ===
+RYUJI KUDO
+=== 79 ===
+NATSUYO TAKADA
+=== 80 ===
+NORIKO NAKANOME
+=== 81 ===
+ГРУППА ТЫЛОВОЙ ПОДДЕРЖКИ
+=== 82 ===
+YUKIO KOURA
+=== 83 ===
+MAKI MATSUDA
+=== 84 ===
+TAKAHIKO KINOSHITA
+=== 85 ===
+…И ВЕСЬ ОТДЕЛ ПОДДЕРЖКИ
+=== 86 ===
+ОТДЕЛ РЕЙТИНГОВ
+=== 87 ===
+КОНСУЛЬТАНТЫ ПО РЕЙТИНГАМ
+=== 88 ===
+SUEKO KOGAI
+=== 89 ===
+REIKO KONDO
+=== 90 ===
+КОНСУЛЬТАНТ-АССИСТЕНТ
+=== 91 ===
+MIRI ITO
+=== 92 ===
+ЛОКАЛИЗАЦИЯ 
+=== 93 ===
+ИСХОДНЫЙ ПЕРЕВОД
+=== 94 ===
+JOSEPH REEDER
+=== 95 ===
+ДОПОЛНИТЕЛЬНЫЙ ПЕРЕВОД
+=== 96 ===
+DAN COLLINS
+=== 97 ===
+КООРДИНАТОР
+=== 98 ===
+YOSHIYA HIROHAMA
+=== 99 ===
+КООРДИНАТОР-АССИСТЕНТ
+=== 100 ===
+MAYO OGAWA
+=== 101 ===
+МЕНЕДЖЕР ЛОКАЛИЗАЦИИ
+=== 102 ===
+KAZUYOSHI TASHIRO
+=== 103 ===
+ГЕНЕРАЛЬНЫЙ МЕНЕДЖЕР
+=== 104 ===
+MASASHI HIRAMATSU
+=== 105 ===
+SQUARE ENIX, INC.
+=== 106 ===
+МЕНЕДЖЕР КОНТРОЛЯ КАЧЕСТВА
+=== 107 ===
+DAVID "RIBS" CARRILLO
+=== 108 ===
+ЗАМ. МЕНЕДЖЕРА КАЧЕСТВА
+=== 109 ===
+MOHAMMED A.C. WRIGHT
+=== 110 ===
+СТАРШИЙ КООРДИНАТОР КАЧЕСТВА
+=== 111 ===
+AARON J. ADAMS
+=== 112 ===
+КООРДИНАТОР КАЧЕСТВА
+=== 113 ===
+KEITH P. MARTZ
+=== 114 ===
+ПОМОЩНИК КООРДИНАТОРА КАЧЕСТВА
+=== 115 ===
+KYTHERA CONTRERAS
+=== 116 ===
+СОТРУДНИК КОНТРОЛЯ КАЧЕСТВА
+=== 117 ===
+JASON SANDERS
+=== 118 ===
+OTДEЛ KOHTPOЛЯ KAЧECTBA
+=== 119 ===
+JOHN CLARK
+=== 120 ===
+JOHNNY FOURNIER
+=== 121 ===
+PETER KIM
+=== 122 ===
+ADAM PASCUAL
+=== 123 ===
+LOUIS SEDENO III
+=== 124 ===
+STEPHEN WHILDEN
+=== 125 ===
+ПЕРЕВОДЧИКИ КОНТРОЛЯ КАЧЕСТВА
+=== 126 ===
+ELIJAH SMOLKO
+=== 127 ===
+TAKAHIRO SOH
+=== 128 ===
+ДИРЕКТОР ЛОКАЛИЗАЦИИ И КАЧЕСТВА
+=== 129 ===
+YUTAKA SANO
+=== 130 ===
+ИСПОЛНИТЕЛЬНЫЙ ДИРЕКТОР 
+=== 131 ===
+СООБЩЕСТВА И СЕРВИСА
+=== 132 ===
+YASU KUROSAWA
+=== 133 ===
+СТАРШИЙ МЕНЕДЖЕР ПО ОПЕРАЦИЯМ
+=== 134 ===
+FRANKO F. FONSECA
+=== 135 ===
+МЕНЕДЖЕР ИНФОРМАЦИОННОГО ЦЕНТРА
+=== 136 ===
+WALTER BRAME
+=== 137 ===
+РУКОВОДИТЕЛИ ИНФОЦЕНТРА
+=== 138 ===
+CARL HIDALGO
+=== 139 ===
+JEREME SKELTON
+=== 140 ===
+СОТРУДНИКИ ИНФОЦЕНТРА
+=== 141 ===
+JAMES MASSEY
+=== 142 ===
+NEIL "TAK" HERRERA
+=== 143 ===
+МЕНЕДЖЕР ТЫЛОВОЙ ПОДДЕРЖКИ
+=== 144 ===
+SEAN MICHAEL
+=== 145 ===
+СОТРУДНИКИ ТЫЛОВОЙ ПОДДЕРЖКИ
+=== 146 ===
+GENE MESSERSCHMITT
+=== 147 ===
+JOSE OSIO
+=== 148 ===
+CBЯЗИ C OБЩECTBEHHOCTЬЮ
+=== 149 ===
+SONIA IM
+=== 150 ===
+CHARLIE SINHASENI
+=== 151 ===
+KLEE KUO
+=== 152 ===
+МАРКЕТИНГ ПРОДУКТА
+=== 153 ===
+FERNANDO BUSTAMANTE
+=== 154 ===
+CHARLES MCCARTER
+=== 155 ===
+ISSEI SHIMIZU
+=== 156 ===
+LAURIE MA
+=== 157 ===
+КООРДИНАЦИЯ ПРОЕКТА
+=== 158 ===
+KUMIKO HAKUSHI
+=== 159 ===
+NAOKO YAMAMURA-RICE
+=== 160 ===
+EMI MAURER
+=== 161 ===
+WILBUR LIN
+=== 162 ===
+МАРКЕТИНГОВЫЕ КОММУНИКАЦИИ
+=== 163 ===
+PATRICK H. CERVANTES
+=== 164 ===
+TIM LAW
+=== 165 ===
+PARKER SAPP
+=== 166 ===
+SAKURA MINAMIDA
+=== 167 ===
+ПРОДАЖИ
+=== 168 ===
+RON KURTZ
+=== 169 ===
+ALAINE C. DE LEON
+=== 170 ===
+KANJI TASHIRO
+=== 171 ===
+JAYSEN RODRIGUEZ
+=== 172 ===
+JOHN SIY
+=== 173 ===
+ИСПОЛНИТЕЛЬНЫЙ ДИРЕКТОР, 
+=== 174 ===
+ПРОДАЖИ И МАРКЕТИНГ
+=== 175 ===
+SHINJI FUTAMI
+=== 176 ===
+СТАРШИЙ ВИЦЕ-ПРЕЗИДЕНТ
+=== 177 ===
+SHINJI HASHIMOTO
+=== 178 ===
+ДИРЕКТОР ПО ПРАВОВЫМ ВОПРОСАМ И
+=== 179 ===
+ЗАМ. ГЕНЕРАЛЬНОГО ЮРИСКОНСУЛЬТА
+=== 180 ===
+CLINTON FOY
+=== 181 ===
+ПРЕЗИДЕНТ И ОПЕРАЦИОННЫЙ ДИРЕКТОР
+=== 182 ===
+DAISHIRO OKADA
+=== 183 ===
+TOSE  CO.,  LTD
+=== 184 ===
+ДИРЕКТОР
+=== 185 ===
+KENJIRO KATO
+=== 186 ===
+ТЕХНИЧЕСКИЙ КОНСУЛЬТАНТ
+=== 187 ===
+SHIGERU AE
+=== 188 ===
+КООРДИНАТОР
+=== 189 ===
+YUICHI SHIMIZU
+=== 190 ===
+ПРОГРАММИСТ
+=== 191 ===
+YOUICHI NAKABAYASHI
+=== 192 ===
+KENICHI KONDO
+=== 193 ===
+YOUZOU SUZUKI
+=== 194 ===
+FUTA HIRAYAMA
+=== 195 ===
+SADAHARU ICHIMURA
+=== 196 ===
+SHOHEI KOIKE
+=== 197 ===
+YASUFUMI SUZUKI
+=== 198 ===
+ДИЗАЙНЕР
+=== 199 ===
+HIROMINE OHKURA
+=== 200 ===
+TARO TANIGUCHI
+=== 201 ===
+SEIJI NAKAI
+=== 202 ===
+KIKUGORO KIMURA
+=== 203 ===
+YASUHITO SHOJI
+=== 204 ===
+ASAKO WADA
+=== 205 ===
+MAKIKO NIHARI
+=== 206 ===
+YURI MAEDA
+=== 207 ===
+YUKI HARADA
+=== 208 ===
+EIJI ITO
+=== 209 ===
+MISA NISHIMURA
+=== 210 ===
+SHINGO HIROTANI
+=== 211 ===
+YOSHIMI SATO
+=== 212 ===
+RYUICHI ANDO
+=== 213 ===
+YASUHIKO WATANABE
+=== 214 ===
+YOSHIHISA SHIMIZU
+=== 215 ===
+KAZUYA NANJO
+=== 216 ===
+HIROYUKI KAMISAWA
+=== 217 ===
+SHINICHI MIYAZAWA
+=== 218 ===
+KOMПOЗИTOP
+=== 219 ===
+HIDENORI MIYANAGA
+=== 220 ===
+KENGO HAGIWARA
+=== 221 ===
+SHINGO KATAOKA
+=== 222 ===
+ОСОБАЯ БЛАГОДАРНОСТЬ
+=== 223 ===
+HIROSHI KASAJIMA
+=== 224 ===
+MASAKO YOKOTA
+=== 225 ===
+SATOSHI MURAKAMI
+=== 226 ===
+SHIGEO KUSHIDA
+=== 227 ===
+MISAO KOBAYASHI
+=== 228 ===
+YASUHIRO KANO
+=== 229 ===
+NORIO TAKEUCHI
+=== 230 ===
+AKINA OYAMADA
+=== 231 ===
+SEIICHIRO ISHIGURO
+=== 232 ===
+YUJI WADA
+=== 233 ===
+TOSHIYA MATSUYAMA
+=== 234 ===
+RIE TANAKA
+=== 235 ===
+SAYAKA YASUOKA
+=== 236 ===
+KIYOKAZU TANI
+=== 237 ===
+ИСХОДНАЯ КОМАНДА
+=== 238 ===
+ПРОГРАММИСТ
+=== 239 ===
+NASIR
+=== 240 ===
+CЦEHAPИCT
+=== 241 ===
+KENJI TERADA
+=== 242 ===
+PAЗPAБOTKA OPИГИHAЛA
+=== 243 ===
+SQUARE 'A-TEAM'
+=== 244 ===
+ОСОБАЯ БЛАГОДАРНОСТЬ
+=== 245 ===
+KIYOMI TANIKAWA
+=== 246 ===
+SOSHI YOSHIDA
+=== 247 ===
+ITSUJI YAMADA
+=== 248 ===
+YOSHIE NISHIMURA
+=== 249 ===
+SHIHO SASAKI
+=== 250 ===
+TOMOHIDE WATANABE
+=== 251 ===
+TOSHIAKI NAITO
+=== 252 ===
+NOBUFUMI YAMADA
+=== 253 ===
+SOTA ONJI
+=== 254 ===
+JYUNPEI TAKEBA
+=== 255 ===
+TSUTOMU YAMADA
+=== 256 ===
+…И ВСЕМ СОТРУДНИКАМ SQUARE ENIX
+=== 257 ===
+ИСПОЛНИТЕЛЬНЫЙ ПРОДЮСЕР
+=== 258 ===
+YOICHI WADA
+=== 259 ===
+ИСПОЛНИТЕЛЬНЫЙ ПРОДЮСЕР
+=== 260 ===
+YOICHI WADA
+=== 261 ===
+FINALFANTASY
+=== 262 ===
+ERI SAITO
+=== 263 ===
+KENTARO WATANABE
+=== 264 ===
+EIKICHI FUJIBAYASHI
+=== 265 ===
+MASAHIRO TOBITA
+=== 266 ===
+РУКОВОДИТЕЛЬ ДИЗАЙНА МОНСТРОВ
+=== 267 ===
+TETSUYA NOMURA
+=== 268 ===
+ДИРЕКТОР
+=== 269 ===
+HIROYUKI MIURA

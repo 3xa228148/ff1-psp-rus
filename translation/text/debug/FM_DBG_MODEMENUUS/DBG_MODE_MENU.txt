@@ -1,0 +1,78 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_MODEMENUUS.PCK / DBG_MODE_MENU.MSG
+# Шрифт: fonts/FM_DBG_MODEMENUUS/FM_DBG_MODEMENUUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+PSP□FF１
+=== 1 ===
+Debug□FF１
+=== 2 ===
+Common□Data
+=== 3 ===
+Music□Player
+=== 4 ===
+Map
+=== 5 ===
+Битва
+=== 6 ===
+Sprite
+=== 7 ===
+Event
+=== 8 ===
+Font
+=== 9 ===
+Sound
+=== 10 ===
+Icon
+=== 11 ===
+Debug Mode Main MENU
+=== 12 ===
+FF1 Debug MENU
+=== 13 ===
+GAME
+=== 14 ===
+12✕12□Font
+=== 15 ===
+18✕18□Font
+=== 16 ===
+BGM
+=== 17 ===
+SE
+=== 18 ===
+Camp
+=== 19 ===
+Field
+=== 20 ===
+Field Debug
+=== 21 ===
+Opening
+=== 22 ===
+Prologue
+=== 23 ===
+Epilogue
+=== 24 ===
+Лавка
+=== 25 ===
+Mini Map
+=== 26 ===
+Event Debug
+=== 27 ===
+Mini Game
+=== 28 ===
+Omake
+=== 29 ===
+Flag Control
+=== 30 ===
+Debug Map Jump
+=== 31 ===
+The End
+=== 32 ===
+Staff Roll
+=== 33 ===
+Massage
+=== 34 ===
+ART Garally
+=== 35 ===
+Game Launcher

@@ -1,0 +1,94 @@
+# Final Fantasy (PSP) - русский перевод. Раздел: отладочные меню (в обычной игре не видны).
+# Игровой файл: FM_DBG_BGMUS.PCK / DBG_BGM_LIST.MSG
+# Шрифт: fonts/FM_DBG_BGMUS/FM_DBG_BGMUS.charmap.txt - писать можно только символами этого шрифта.
+# Перенос строки - обычный перенос. {cN} - служебные коды игры, не удаляйте их.
+# Строки разделяются заголовками "=== номер ===", номера менять нельзя.
+@mode 1
+=== 0 ===
+FFI: Prelude
+=== 1 ===
+FFI: Opening Theme
+=== 2 ===
+FFI: Castle Cornelia
+=== 3 ===
+FFI: Main Theme
+=== 4 ===
+FFI: Chaos Shrine
+=== 5 ===
+FFI: Matoya's Cave
+=== 6 ===
+FFI: Town
+=== 7 ===
+FFI: Shop
+=== 8 ===
+FFI: Inn
+=== 9 ===
+FFI: Sailing Ship
+=== 10 ===
+FFI: Sunken Shrine
+=== 11 ===
+FFI: Dungeon
+=== 12 ===
+FFI: Menu Screen
+=== 13 ===
+FFI: Airship
+=== 14 ===
+FFI: Mt. Gulg
+=== 15 ===
+FFI: Flying Fortress
+=== 16 ===
+FFI: Battle
+=== 17 ===
+FFI: Victory
+=== 18 ===
+FFI: End Theme
+=== 19 ===
+FFI: Game Over
+=== 20 ===
+FFI: Save Jingle
+=== 21 ===
+FFI: Church
+=== 22 ===
+FFI: Mini Boss Battle
+=== 23 ===
+FFI: Boss Battle A
+=== 24 ===
+FFI: Boss Battle B
+=== 25 ===
+FFI: Last Boss
+=== 26 ===
+FFI: Opening Demo
+=== 27 ===
+FFI: The Lute
+=== 28 ===
+FFI: Into the Depths
+=== 29 ===
+FFI: Build that Bridge!
+=== 30 ===
+FFI: The Ruined Castle
+=== 31 ===
+FFI: Fanfare
+=== 32 ===
+FFI: Key Item Jingle
+=== 33 ===
+FFI: Restoration of the Crystals
+=== 34 ===
+BGM TEST
+=== 35 ===
+TEST SONG 63A
+=== 36 ===
+TEST SONG 63B
+=== 37 ===
+TEST SONG 65A
+=== 38 ===
+TEST SONG 65B
+=== 39 ===
+TEST SONG 62A
+=== 40 ===
+TEST SONG 64A
+=== 41 ===
+TEST SONG 64B
+=== 42 ===
+TEST SONG 66
+=== 43 ===
+TEST SONG 62B
